@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **niyonikand67@gmail.com**
 
-- 📄 Know about my Experiences [Resume](https://drive.google.com/file/d/1PKyGfUhak4y_hbh_5eZ0UYi9Yag6lk0F/view?usp=sharing)
+- 📄 Know about my Experiences [Resume](https://drive.google.com/file/d/11X5BNYt3ZixCC87KOzfDq51q7ZX3hWUc/view?usp=sharing)
 
 - ⚡ Fun fact **Talkative & Funny**
 
