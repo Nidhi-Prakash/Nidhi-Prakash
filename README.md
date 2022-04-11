@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything, I am happy to help.**
 
-- 📫 How to reach me **niyonikand67@gmail.com**
+- 📫 How to reach me **np562019@gmail.com**
 
 - 📄 Know about my Experiences [Resume](https://drive.google.com/file/d/1GbhXIvagzG4Ug66ubHi6bzDQz-ToRTjP/view?usp=sharing)
 
