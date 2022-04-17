@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nidhi Prakash</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate frontend developer & Programmer.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 
-<h4 align="center">More About Me:point_down:</h4>
+<!-- <h4 align="center">More About Me:point_down:</h4> -->
 
 - 🌱 I’m currently learning **Node.js & more about Backend Web Development.**
 
