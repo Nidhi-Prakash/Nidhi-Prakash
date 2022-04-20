@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **np562019@gmail.com**
 
-- 📄 Know about my Experiences [Resume](https://drive.google.com/file/d/1GbhXIvagzG4Ug66ubHi6bzDQz-ToRTjP/view?usp=sharing)
+- 📄 Know about my Experiences [Resume](https://drive.google.com/file/d/1gtQ2q-LtP-BBGGwTl7UERrc7sx_HiS0f/view?usp=sharing)
 
 - ⚡ Fun fact **Talkative & Funny**
 
