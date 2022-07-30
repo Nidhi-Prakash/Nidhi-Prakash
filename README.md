@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer & Programmer.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **E-Commerce Website**
 
 - 🌱 I’m currently learning **React.js**
 
