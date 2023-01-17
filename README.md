@@ -2,15 +2,15 @@
 <h3 align="center">A passionate frontend developer & Programmer.</h3>
 <img align="right" alt="Coding" width="380" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **[E-Commerce Website](https://nidhi-prakash.github.io/E-commerce-Website/)**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **anything, I'm happy to help**
 
 - 📫 How to reach me **niyonikand67@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19eQ-gnMjQPNDe4-xq6YOMYIUI9Jc1Xyo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17iDnfisPy4Dy2OUX1BsE5icXq7eUmHN4/view?usp=share_link)
 
 - ⚡ Fun fact **Talkative and Funny**
 
