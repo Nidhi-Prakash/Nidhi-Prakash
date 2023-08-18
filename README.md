@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **[E-Commerce Website](https://nidhi-prakash.github.io/E-commerce-Website/)**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Nest.js**
+  
+- 🔥See my contirbutions here [🔗](https://github.com/NidhiPrakash27)
 
 - 💬 Ask me about **anything, I'm happy to help**
 
