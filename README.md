@@ -3,16 +3,14 @@
 <img align="right" alt="Coding" width="380" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working on **[E-Commerce Website](https://e-commerce-website-eight-wine.vercel.app/)**
-
-- 🌱 I’m currently learning **Nest.js**
   
 - 🔥See my contirbutions here [🔗](https://github.com/NidhiPrakash27)
 
 - 💬 Ask me about **anything, I'm happy to help**
 
-- 📫 How to reach me **niyonikand67@gmail.com**
+- 📫 How to reach me **np562019@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17iDnfisPy4Dy2OUX1BsE5icXq7eUmHN4/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GGXiISSs0frM7_TWH4Zn2DJg9u43oETD/view?usp=sharing)
 
 - ⚡ Fun fact **Talkative and Funny**
 
