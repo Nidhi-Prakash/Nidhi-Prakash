@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhi Prakash</h1>
-<img align="right" alt="Coding" width="380" src="https://i.imgur.com/rTZkf4K.gif">
+<img align="right" alt="Coding" width="500" height="300" src="https://i.imgur.com/2l5C0hj.gif">
 
 - 🔭 I’m currently working with **MERN Stack** along with Cloud services such as **AWS and Vercel**
 
